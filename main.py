@@ -1,1 +1,1 @@
-print("This is a conflict for Home task")
+print("I think I understood the home task")
